@@ -2,7 +2,7 @@
  Site com minhas redes sociais, caso queira entrar em contato é só chamar.
 
 # Como acessar
-Entre por esse link: https://cleciolira.github.io/Social_Links_Profile/
+Entre por esse link: https://clecio-lira.github.io/Social_Links_Profile/
 
 # Estrutura do Projeto
 index.html: Contém a estrutura da página web.
